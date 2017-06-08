@@ -9,4 +9,6 @@ Creating the main game will be pretty straightforward. First I will have to crea
 I love the guitar hero games and always found them super entertaining. Ever since the first time I played them I figured that the basic game would  actually be pretty simple to code, so this project will be my stab at it. Music is also very important to me so it's natural that my major project would have something to do with it.
 
 ## Necessities
-[] - this
+- [x] Piano
+- [x] Keyboard Functionality
+- [x] Sound Effects
