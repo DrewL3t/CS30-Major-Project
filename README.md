@@ -10,5 +10,14 @@ I love the guitar hero games and always found them super entertaining. Ever sinc
 
 ## Necessities
 - [x] Piano
-- [x] Keyboard Functionality
-- [x] Sound Effects
+- [x] Keyboard functionality
+- [x] Sound effects
+- [x] Ability to write songs
+- [ ] Note hit detection
+
+## Would be nice to have...
+- [x] Multiple screens (title, song selection, high scores)
+- [ ] Fancy effects/backgrounds
+- [ ] Ability to play chords
+- [ ] Score system
+- [ ] Many songs to choose from
